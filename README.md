@@ -1,0 +1,1 @@
+This is a breif intro to this odin-recipies project. I'm learning HTML and CSS through Odin Project, and this is one of the first projects. The skills I will be demonstrating here are the abilitiy to write a basic website in HTML, along with the ability to follow directions. 
